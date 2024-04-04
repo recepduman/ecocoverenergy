@@ -1,0 +1,87 @@
+[
+    {
+        "personnelId": 1,
+        "personnelName": "Alparslan Omay",
+        "photoUrl": "/img/profile-photos/1.png",
+        "documents": [
+            {
+                "fileName": "Araç Kullanım",
+                "filePath": "/data/personnels/alparslanomay/arackullanim.pdf"
+            },
+            {
+                "fileName": "Eğitim Belgesi",
+                "filePath": "/data/personnels/alparslanomay/egitimbelgesi.pdf"
+            },
+            {
+                "fileName": "KKD Zimmet Tutanağı",
+                "filePath": "/data/personnels/alparslanomay/kkdzimmettutanagi.pdf"
+            },
+            {
+                "fileName": "Sağlık Raporu",
+                "filePath": "/data/personnels/alparslanomay/saglikraporu.pdf"
+            },
+            {
+                "fileName": "SGK İşe Giriş",
+                "filePath": "/data/personnels/alparslanomay/sgkisegiris.pdf"
+            },
+            {
+                "fileName": "Yüksekte Çalışma Eğitim Belgesi",
+                "filePath": "/data/personnels/alparslanomay/yuksektecalismaegitimbelgesi.pdf"
+            }
+        ]
+    },
+    {
+        "personnelId": 2,
+        "personnelName": "Hüseyin Erikci",
+        "photoUrl": "/img/profile-photos/2.png",
+        "documents": [
+            {
+                "fileName": "Eğitim Belgesi",
+                "filePath": "/data/personnels/huseyinerikci/egitimbelgesi.pdf"
+            },
+            {
+                "fileName": "KKD Zimmet Tutanağı",
+                "filePath": "/data/personnels/huseyinerikci/kkdzimmettutanagi.pdf"
+            },
+            {
+                "fileName": "Sağlık Raporu",
+                "filePath": "/data/personnels/huseyinerikci/saglikraporu.pdf"
+            },
+            {
+                "fileName": "SGK İşe Giriş",
+                "filePath": "/data/personnels/huseyinerikci/sgkisegiris.pdf"
+            },
+            {
+                "fileName": "Yüksekte Çalışma Eğitim Belgesi",
+                "filePath": "/data/personnels/huseyinerikci/yuksektecalismaegitimbelgesi.pdf"
+            }
+        ]
+    },
+    {
+        "personnelId": 3,
+        "personnelName": "Tahsin Günaydın",
+        "photoUrl": "/img/profile-photos/3.png",
+        "documents": [
+            {
+                "fileName": "Eğitim Belgesi",
+                "filePath": "/data/personnels/tahsingunaydin/egitimbelgesi.pdf"
+            },
+            {
+                "fileName": "KKD Zimmet Tutanağı",
+                "filePath": "/data/personnels/tahsingunaydin/kkdzimmettutanagi.pdf"
+            },
+            {
+                "fileName": "Sağlık Raporu",
+                "filePath": "/data/personnels/tahsingunaydin/saglikraporu.pdf"
+            },
+            {
+                "fileName": "SGK İşe Giriş",
+                "filePath": "/data/personnels/tahsingunaydin/sgkisegiris.pdf"
+            },
+            {
+                "fileName": "Yüksekte Çalışma Eğitim Belgesi",
+                "filePath": "/data/personnels/tahsingunaydin/yuksektecalismaegitimbelgesi.pdf"
+            }
+        ]
+    }
+]

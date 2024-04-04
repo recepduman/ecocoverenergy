@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "cleaningId": 1,
+        "personnels": [
+            {
+                "id": 1,
+                "name": "Alparslan Omay",
+                "photoUrl": "/img/profile-photos/1.png"
+            },
+            {
+                "id": 2,
+                "name": "Hüseyin Erikci",
+                "photoUrl": "/img/profile-photos/2.png"
+            },
+            {
+                "id": 3,
+                "name": "Tahsin Günaydın",
+                "photoUrl": "/img/profile-photos/3.png"
+            }
+        ],
+        "equipments": [
+            "Yıkama Robotu (Rob-Sys)",
+            "Solüsyon (Chimitek)",
+            "Arıtma Sistemi (EuroTech)",
+            "Manuel Fırça (Qleentek)"
+        ],
+        "imagesBeforeCleaning": [
+            "/img/cleanings/sintac/dirty1.jpg",
+            "/img/cleanings/sintac/dirty2.jpg"
+        ],
+        "imagesAfterCleaning": [
+            "/img/cleanings/sintac/clean1.jpg",
+            "/img/cleanings/sintac/clean2.jpg",
+            "/img/cleanings/sintac/clean3.jpg",
+            "/img/cleanings/sintac/clean4.jpg"
+        ]
+    }
+]

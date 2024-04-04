@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "logoUrl": "/img/sahtas_logo.png",
+        "power": "1.200,00",
+        "moduleCount": 2.927,
+        "moduleTech": "410 Wp Phono Solar",
+        "totalCleaningCount": 60,
+        "totalPerformedCleaningCount": 2,
+        "totalRemainingCleaningCount": 58,
+        "expiryDate": "31.12.2024"
+    },
+    {
+        "id": 2,
+        "logoUrl": "/img/sintac_logo.png",
+        "power": "1.300,00",
+        "moduleCount": 3.927,
+        "moduleTech": "510 Wp Phono Solar",
+        "totalCleaningCount": 30,
+        "totalPerformedCleaningCount": 1,
+        "totalRemainingCleaningCount": 29,
+        "expiryDate": "31.12.2024"
+    },
+    {
+        "id": 3,
+        "logoUrl": "/img/br_magazacilik_logo.png",
+        "power": "1.300,00",
+        "moduleCount": 3.927,
+        "moduleTech": "510 Wp Phono Solar",
+        "totalCleaningCount": 100,
+        "totalPerformedCleaningCount": 1,
+        "totalRemainingCleaningCount": 99,
+        "expiryDate": "31.12.2024"
+    },
+    {
+        "id": 4,
+        "logoUrl": "/img/sandalyeci_logo.png",
+        "power": "1.300,00",
+        "moduleCount": 3.927,
+        "moduleTech": "510 Wp Phono Solar",
+        "totalCleaningCount": 15,
+        "totalPerformedCleaningCount": 1,
+        "totalRemainingCleaningCount": 14,
+        "expiryDate": "31.12.2024"
+    }
+]
